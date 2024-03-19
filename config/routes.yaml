@@ -1,0 +1,11 @@
+home:
+    path: /home
+    controller: App\Controller\HomeController::index
+
+taches:
+    path: /taches
+    controller: App\Controller\TacheController::index
+
+menus:
+    path: /menus
+    controller: App\Controller\MenusController::index
